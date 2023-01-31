@@ -1,1 +1,2 @@
-This is an incomplete fil
+This is an incomplete file to know the Stash command 
+when merging branches...
